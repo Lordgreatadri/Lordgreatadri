@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Emmanuel Lordgreat-Adri
+
     **A backend Engineer | Aspiring Cloud Solutions Architect | Builder of Scalable, Impact-Driven Systems for Enterprises & Startups**
 
 <!--
