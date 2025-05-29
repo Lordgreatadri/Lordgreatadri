@@ -32,36 +32,40 @@ Databases    : MySQL, PostgreSQL
 Tools/Cloud  : Git, Docker, AWS (EC2, S3, RDS, Lambda - learning)
 
 ```
-
-📌 Featured Projects
+---
+📌 **Featured Projects**
 
 Here are a few projects that reflect my work and interests:
 
-    🎬 Movie App
-    A simple Netflix-style web app built using Django.
-    Focus: Django Views, Templates, Authentication
 
-    📚 Book Review API
-    REST API built with FastAPI and PostgreSQL for submitting and managing book reviews.
-    Focus: CRUD API, SQLAlchemy, Pydantic
+- 🎬 [Movie App](https://github.com/Lordgreatadri/django-movie)  
+  A simple Netflix-style web app built using **Django**.  
+  _Focus: Django Views, Templates, Authentication_
 
-    📝 Blog API
-    A simple FastAPI backend for blog management with JWT Auth and PostgreSQL.
-    Focus: Secure API, Postgres, Authentication
+- 📚 [Book Review API](https://github.com/Lordgreatadri/book-review)  
+  REST API built with **FastAPI** and **PostgreSQL** for submitting and managing book reviews.  
+  _Focus: CRUD API, SQLAlchemy, Pydantic_
 
-    ⚖️ BerthaRose Legal
-    A clean, responsive website for a Ghanaian law firm.
-    Focus: Frontend integration, Legal Services
+- 📝 [Blog API](https://github.com/Lordgreatadri/blog-fastapi)  
+  A simple **FastAPI** backend for blog management with JWT Auth and PostgreSQL.  
+  _Focus: Secure API, Postgres, Authentication_
 
-    📁 Project Management System
-    Built with Laravel 11, React, and Inertia.js — a modern full-stack app for managing team projects.
-    Focus: Laravel API, React frontend, RBAC
+- ⚖️ [BerthaRose Legal](https://github.com/Lordgreatadri/bertharoselegal)  
+  A clean, responsive website for a Ghanaian law firm.  
+  _Focus: Frontend integration, Legal Services_
 
-    🗳️ Electoral Commission Dashboard
-    Internal dashboard for voter ID verification — tailored for Ghana’s Electoral Commission.
-    Focus: Data Validation, Admin Dashboard UI
+- 📁 [Project Management System](https://github.com/Lordgreatadri/project-management-system)  
+  Built with **Laravel 11**, **React**, and **Inertia.js** — a modern full-stack app for managing team projects.  
+  _Focus: Laravel API, React frontend, RBAC_
+
+- 🗳️ [Electoral Commission Dashboard](https://github.com/Lordgreatadri/ec)  
+  Internal dashboard for **voter ID verification** — tailored for Ghana’s Electoral Commission.  
+  _Focus: Data Validation, Admin Dashboard UI_
 
 
+
+
+---
 
 📚 Currently Learning / Exploring
 
@@ -73,6 +77,8 @@ Here are a few projects that reflect my work and interests:
 
     ⚙️ Laravel Queues & Scheduled Jobs
 
+---
+
 🤝 Let’s Connect
 
     💼 Open to full-time roles, freelance gigs, or technical collaborations.
@@ -80,4 +86,5 @@ Here are a few projects that reflect my work and interests:
     🗣️ I'm available for speaking engagements on backend development, Laravel, and cloud growth journeys.
 
 📫 Reach out on LinkedIn or send an email to lordgreatadri@gmail.com.
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lordgreatadri&show_icons=true&theme=default&hide=stars&count_private=true" /> </p>
