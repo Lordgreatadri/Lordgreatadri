@@ -85,6 +85,9 @@ Here are a few projects that reflect my work and interests:
 
     🗣️ I'm available for speaking engagements on backend development, Laravel, and cloud growth journeys.
 
-📫 Reach out on LinkedIn or send an email to lordgreatadri@gmail.com.
+📫 Reach out on 
+<a href="https://www.linkedin.com/in/emmanuel-lordgreat-adri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> or send 
+<a href="mailto:lordgreatadri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> or 
+  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lordgreatadri&show_icons=true&theme=default&hide=stars&count_private=true" /> </p>
