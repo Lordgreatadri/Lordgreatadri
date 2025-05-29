@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/Lordgreatadri"><img src="https://img.shields.io/github/followers/Lordgreatadri?label=Followers&style=social" alt="GitHub"></a>
   <a href="mailto:lordgreatadri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/emmanuel-lordgreat-adri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/emmanuel-lordgreat-adri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
 </p>
 
 ---
@@ -20,6 +20,8 @@ With a solid foundation in **systems design**, **API development**, and **team c
 I’m passionate about using technology for good and currently open to opportunities with organizations looking to innovate and grow with the cloud.
 
 > _“Turning complexity into clarity, one system at a time.”_
+
+Thanks for stopping by! 😊
 
 ---
 
@@ -69,15 +71,22 @@ Here are a few projects that reflect my work and interests:
 
 📚 Currently Learning / Exploring
 
-    🚀 AWS Lambda & API Gateway
+  - 🚀 AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
 
-    🐳 Dockerized deployments
+  - 🐳 Dockerized deployments
+  
+  - 🤖 CI/CD (Jenkins, CodePipeline)
+  
+  - 🏗️ Infrastructure as Code (Terraform)
 
-    🔄 GitHub Actions for CI/CD workflows
+  - 🔄 GitHub Actions for CI/CD workflows
 
-    ⚙️ Laravel Queues & Scheduled Jobs
+  - ⚙️ Laravel Queues & Scheduled Jobs, Monitoring & Observability
 
 ---
+🤔 I’m looking for help with optimizing cloud infrastructure and implementing best practices.
+
+🌱 I'm always eager to learn and explore new technologies in the ever-evolving cloud landscape.
 
 🤝 Let’s Connect
 
@@ -87,7 +96,9 @@ Here are a few projects that reflect my work and interests:
 
 📫 Reach out on 
 <a href="https://www.linkedin.com/in/emmanuel-lordgreat-adri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> or send 
-<a href="mailto:lordgreatadri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> or 
-  
+<a href="mailto:lordgreatadri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a> 
+🌐 [Visit My Portfolio](https://bit.ly/lordgreat)
+
+--- 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lordgreatadri&show_icons=true&theme=default&hide=stars&count_private=true" /> </p>
