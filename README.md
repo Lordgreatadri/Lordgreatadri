@@ -1,10 +1,7 @@
 ## Hi there 👋
 I'm Emmanuel Lordgreat-Adri
-
     **A backend Engineer | Aspiring Cloud Solutions Architect | Builder of Scalable, Impact-Driven Systems for Enterprises & Startups**
-    AWS Cloud enthusiast based in Accra, Ghana. 
 
-    HTML CSS JavaScript React Next.js Tailwind CSS Node.js MongoDB Figma
 
 <!--
 **Lordgreatadri/Lordgreatadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
