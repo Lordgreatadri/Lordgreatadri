@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emmanuel Lordgreat-Adri 👋</h1>
-<h3 align="center">Backend Developer | AWS Cloud Enthusiast | Builder of Scalable, Impact-Driven Systems for Enterprises & Startups | Tech-for-Good Advocate</h3>
+<h3 align="center">Backend Developer | AWS Certified | Cloud Enthusiast | Builder of Scalable, Impact-Driven Systems for Enterprises & Startups | Tech-for-Good Advocate</h3>
 
 <p align="center">
   <a href="https://github.com/Lordgreatadri"><img src="https://img.shields.io/github/followers/Lordgreatadri?label=Followers&style=social" alt="GitHub"></a>
