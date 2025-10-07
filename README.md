@@ -72,13 +72,13 @@ Here are a few projects that reflect my work and interests:
 
 📚 Currently Learning / Exploring
 
-  - 🚀 AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
+  - 🚀 AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge, CloudFormation)
 
   - 🐳 Dockerized deployments
   
   - 🤖 CI/CD (Jenkins, CodePipeline)
   
-  - 🏗️ Infrastructure as Code (Terraform)
+  - 🏗️ Infrastructure as Code (Terraform, CloudFormation)
 
   - 🔄 GitHub Actions for CI/CD workflows
 
